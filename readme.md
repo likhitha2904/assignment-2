@@ -1,9 +1,9 @@
 # CampusPe Python Assignment 2
 
 ## Student Information
-Full Name: Likhitha MM
-Course: GenAI
-College: The National Institute of Engineering, Mysuru.
+- Full Name: Likhitha MM
+- Course: GenAI
+- College: The National Institute of Engineering, Mysuru.
 
 ## Assignment Overview
 - This repository contains solutions to Questions 1-20.
